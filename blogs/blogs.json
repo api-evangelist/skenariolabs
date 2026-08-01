@@ -1,0 +1,15 @@
+{
+  "repo": "skenariolabs",
+  "feeds": [
+    {
+      "source": "https://skenariolabs.com/about/",
+      "feed_url": "https://skenariolabs.com/about/",
+      "title": "",
+      "saved": 0,
+      "method": "none",
+      "error": "parse_failed"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-08-01T15:38:58Z"
+}

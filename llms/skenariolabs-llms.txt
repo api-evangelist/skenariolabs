@@ -1,0 +1,56 @@
+# Skenariolabs
+
+> The data backbone of real estate finance. Auditable asset-level intelligence for European financial institutions.
+
+Skenariolabs provides automated, data-driven intelligence for real estate finance. We serve 200+ institutional clients across Europe, covering over 60 billion euros of collateral under active monitoring.
+
+## What we do
+
+We turn fragmented real estate data into decision-ready, auditable intelligence at the asset level, at scale. From a single address, we reconstruct complete building profiles covering valuation, climate risk, energy performance, technical condition, and renovation potential.
+
+## Pages
+
+- [Home](/): The data backbone of real estate finance.
+- [About](/about): Who we are, our team, and our mission.
+- [Contact](/contact): Get in touch with our team.
+- [Insights](/insights): Research and analysis on real estate finance, climate risk, and regulation.
+
+## Platform
+
+- [Automated Valuation](/platform/automated-valuation): Asset-specific market values and rent estimates with monthly forecasts and stress testing.
+- [Climate Risk](/platform/climate-risk): Physical and transition risk, energy performance, carbon intensity, and stranding year — aligned with CRREM, EU Taxonomy, and ECB guidelines.
+- [Technical Risk](/platform/technical-risk): Building condition, renovation backlog, retrofit cost modeling, and value uplift projections.
+- [Data Enrichment](/platform/data-enrichment): Complete asset-specific profiles reconstructed from fragmented sources with confidence scoring.
+- [Technology](/platform/technology): Purpose-built models trained on European real estate fundamentals with full audit trails.
+
+## Solutions
+
+- [Portfolio Audit](/solutions/portfolio-audit): One-time or periodic deep enrichment of entire portfolios. Audit-ready outputs aligned with EBA, CRR3, EU Taxonomy, MEPS, CRREM, and SFDR.
+- [Risk Monitoring](/solutions/risk-monitoring): Continuous monthly tracking of all risk dimensions at the asset level with automated alerts.
+- [Loan Origination](/solutions/loan-origination): All capabilities delivered ad hoc into financing and underwriting workflows. From address to decision package, same day.
+
+## Insights
+
+- [Basel Committee voluntary climate risk disclosures](/insights/basel-committee-on-banking-supervision-introduces-framework-for-voluntary-climate-risk-disclosures): New framework for voluntary climate risk disclosures from the Basel Committee.
+- [ECB climate risk implications](/insights/ecb-climate-risk-implications): What ECB climate risk guidelines mean for European lenders.
+- [Green dividends vs brown discounts](/insights/green-dividends-vs-brown-discounts-what-our-research-reveals-about-energy-efficiency-in-real-estate): Research on energy efficiency pricing in real estate.
+- [How to make real estate data AI-ready](/insights/how-to-make-real-estate-data-ai-ready): Practical guide to preparing property data for AI workflows.
+- [Is the market flipping: mortgage in principle](/insights/is-the-market-flipping-mortgage-in-principle): Analysis of the mortgage-in-principle shift.
+- [PRA's upcoming climate risk rules (CP10/25)](/insights/pras-upcoming-climate-risk-rules-what-cp10-25-means-for-uk-lenders): What CP10/25 means for UK lenders.
+- [Prudent valuation](/insights/prudent-valuation-building-a-more-resilient-property-market): Building a more resilient property market through prudent valuation.
+- [Understanding CRREM](/insights/understanding-crrem-a-key-framework-for-real-estate-decarbonisation): A key framework for real estate decarbonisation.
+- [When homes become heat traps](/insights/when-homes-become-heat-traps-why-overheating-is-the-next-climate-risk-for-real-estate-portfolios): Why overheating is the next climate risk for real estate portfolios.
+
+## Company
+
+Founded in 2015 in Helsinki, Finland. Offices in Helsinki (HQ), Cambridge (UK), and Manchester (UK). 25+ person team of data scientists, physicists, engineers, and finance professionals.
+
+## Contact
+
+- Email: hello@skenariolabs.com
+- Website: https://skenariolabs.com
+
+## Optional
+
+- [Privacy Policy](/privacy-policy): How we handle personal data.
+- [Terms of Use](/terms-of-use): Terms governing use of our website.
