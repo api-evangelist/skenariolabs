@@ -16,10 +16,14 @@ deployment:
 tools_count: 3
 tools:
 - name: list_pages
-  description: ''
+  description: List the main public pages of the SkenarioLabs website with titles, descriptions, and URLs.
 - name: list_insights
-  description: ''
+  description: List all published SkenarioLabs insights articles with their slug, title, description,
+    and public URL.
 - name: get_insight
-  description: ''
+  description: Fetch the full text content of a SkenarioLabs insights article by its slug. Use list_insights
+    to discover slugs.
 tools_source: live tools/list via initialize handshake, 2026-09-12 (signals/audit_mcp_authorship.py --probe)
 authorship: provider
+descriptions_source: live tools/list (authorship probe or saved capture); filled by backfill-tools-from-authorship.py
+  --descriptions, 2026-09-28
