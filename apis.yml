@@ -47,7 +47,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - PropTech
 - Property Valuation
 - Climate Risk
@@ -63,6 +63,7 @@ tags_raw:
 - ESG
 - Real Estate Finance
 - Data Intelligence
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
