@@ -1,0 +1,78 @@
+{
+  "endpoint": "https://skenariolabs.com/mcp",
+  "captured": "2026-10-20",
+  "method": "initialize + tools/list (anonymous, no tool called; roadmap#992)",
+  "protocol_version": "2025-06-18",
+  "server_info": {
+    "name": "skenariolabs-mcp",
+    "version": "0.1.0",
+    "title": "SkenarioLabs"
+  },
+  "result": {
+    "tools": [
+      {
+        "name": "list_pages",
+        "title": "List SkenarioLabs website pages",
+        "description": "List the main public pages of the SkenarioLabs website with titles, descriptions, and URLs.",
+        "inputSchema": {
+          "$schema": "http://json-schema.org/draft-07/schema#",
+          "type": "object",
+          "properties": {}
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "execution": {
+          "taskSupport": "forbidden"
+        }
+      },
+      {
+        "name": "list_insights",
+        "title": "List SkenarioLabs insights articles",
+        "description": "List all published SkenarioLabs insights articles with their slug, title, description, and public URL.",
+        "inputSchema": {
+          "$schema": "http://json-schema.org/draft-07/schema#",
+          "type": "object",
+          "properties": {}
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "execution": {
+          "taskSupport": "forbidden"
+        }
+      },
+      {
+        "name": "get_insight",
+        "title": "Get a SkenarioLabs insights article",
+        "description": "Fetch the full text content of a SkenarioLabs insights article by its slug. Use list_insights to discover slugs.",
+        "inputSchema": {
+          "$schema": "http://json-schema.org/draft-07/schema#",
+          "type": "object",
+          "properties": {
+            "slug": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Article slug, e.g. 'understanding-crrem-a-key-framework-for-real-estate-decarbonisation'."
+            }
+          },
+          "required": [
+            "slug"
+          ]
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "execution": {
+          "taskSupport": "forbidden"
+        }
+      }
+    ]
+  }
+}
